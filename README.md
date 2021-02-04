@@ -1,1 +1,1 @@
-# quantity_and_quality
+This code runs the two genotype simulation contained in Collins, Jason, Boris Baer and E. Juerg Weber (2013) Economic Growth and Evolution: Parental Preferences for Quality and Quantity of Offspring, Macroeconomic Dynamics (http://doi.org/10.1017/S1365100513000163)
